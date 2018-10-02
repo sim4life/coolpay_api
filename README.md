@@ -1,4 +1,4 @@
-# Coolpay Api
+# Coolpay API
 Api with financial domain
 
 ## Scenario
